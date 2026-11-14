@@ -72,15 +72,9 @@ Book sha256: `82cea05691282439e487b34209b192c14215707e90554509b5832c3f2eebe036` 
 - found on 1 line(s): 2181
 - line 2181: > *"you have to pass the three three times from the center outwards and let it expand"*
 
-## "Find before building"
-- not found as an exact string
-
 ## "FIND BEFORE BUILDING"
 - found on 1 line(s): 857
 - line 857: 2. **FIND BEFORE BUILDING.** If a thing is describable, search for it by name, by PID,
-
-## "Three touching"
-- not found as an exact string
 
 ## "if three of them touch each other, they gain enough to stay together"
 - found on 1 line(s): 5168
