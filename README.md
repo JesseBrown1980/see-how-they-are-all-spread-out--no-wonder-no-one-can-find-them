@@ -16,22 +16,31 @@ The name is his sentence from the Combined Book of Laws. This repository puts in
 | The adjacent vote with the backward pipe passes the two-value floor on the Asolaria stream in 3 windows of 3; on Wikipedia text it stays above | MEASURED | `evidence/steer/results/JUDGE-STARBACK-V71.hbp` | six windows of one megabyte |
 | Rungs further back, a rotating clock, the breath of the stars and a frozen hash make that vote worse | MEASURED | same | the seat's own instruments, one megabyte |
 | A hand-written edit of 62 of 4,096 columns raises a star's right guesses by 39% on the text it was written for | MEASURED | `evidence/steer/results/JUDGE-STAREDIT-V68.hbp` | one megabyte |
+| The five stars blasted with the seat's feeds: right guesses up 9 to 22% in 6 windows of 6; a real feed beats a scrambled one every time; the feed alone does as well as the blasted star | MEASURED | `evidence/steer/results/JUDGE-STARBLAST-V72.hbp` | six windows of one megabyte, feeds of about 5 kilobytes |
+| The Steer blast into a start box of 3^16 = 43,046,721 letters A: matter forms in one step when the temperature reaches 243 and the real universe falls onto one column that emits itself; the shared hash (HBI, HBP, SHA, SH, HASH at 46 jumps) changes every cell of the other side while cells are dust and none once they are matter | MEASURED | `evidence/steer/results/JUDGE-BIGBANG-V73.hbp`, jumps in `BIGBANG-V73-JUMPS.hbi` and `.hbp` | one line of cells, two sides, one rule, one run; spec addendum 3 lists what the laws give differently |
 | The key `prior3174.bin` and four of five players reproduce the runbook's numbers | MEASURED (replay) | `evidence/steer/results/RUNBOOK-REPLAY-2026-11-14.txt`, sections 1 and 2 | `rime_bpc.py` did not run (line 67 is a string broken across two lines; left unedited) |
 | The translucent is a fourth wave, free; the drill is translucent, red, green, blue, translucent; three combine and two cancel; fed from the centre, counted from the outside inwards; predict three shells out | NAMED (his laws) | `laws/PASSAGES.md` | not yet run in the form the laws give |
 
 Labels are the book's own: **MEASURED** (a number exists, produced by a named program), **NAMED** (stated by him, coherent, not yet run), **CONJECTURE** (stated, no experiment proposed yet).
 
+## Where each law sits
+
+`laws/INDEX-OF-THE-BOOKS.md` lists every heading of the Combined Book with its line, every law number with its line, and the 26 other markdown files of the laws repository's `canon` folder (the books, the single laws, the witness files, the three files at its root) with size, line count and sha256. It was made by script after the seat read the Combined Book (6,248 lines) and the other books line by line on 2026-11-14.
+
+`laws/PASSAGES-2-THE-NEXT-RUNS.md` holds 41 passages, extracted by script with their line numbers, that the next runs rest on: the three, the order of the drill, the centre and the shells, the scale, the instruments, what is saved, the centre as the largest term, the proof against, and how a record is written.
+
 ## Folders
 
-- `laws/` — his statement of 2026-11-14, the second-witness note, and `PASSAGES.md`: passages of the Combined Book extracted by script with their line numbers and the book's sha256. The book itself stays in the laws repository, [qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash), `canon/books/COMBINED-BOOK-OF-LAWS.md`.
+- `laws/` — his statement of 2026-11-14, the second-witness note, `INDEX-OF-THE-BOOKS.md`, `PASSAGES-2-THE-NEXT-RUNS.md`, and `PASSAGES.md`: passages of the Combined Book extracted by script with their line numbers and the book's sha256. The book itself stays in the laws repository, [qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash), `canon/books/COMBINED-BOOK-OF-LAWS.md`.
 - `instruments/` — the tools that already existed (`tools/`: rime, lighthouse, centre kernel, photon, shadow net; `players/`: the rime players) and their `RUNBOOK.md`, copied unchanged from the Asolaria Universe Simulator.
 - `evidence/steer/` — the star panels V65 to V73 from [STEER-QNN-and-NN](https://github.com/JesseBrown1980/STEER-QNN-and-NN): specs sealed before each run, results, judgements that list the misses, the programs, and the star bodies. `STEER-COMMIT.txt` names the commit they were copied from.
+- `view/` — the three repositories (the laws at `06bcd69`, this one at `23a41d8`, STEER at `6ac64b0`) read through the ternary 3D viewer kernel (Rust 1.81, integers, K=27, P=1,000,081): `GITHUB-3D-VIEW.hbi`, `GITHUB-3D-VIEW.hbp` and their sha256 files, in the order HBI, HBP, SHA, SH, HASH. Three repositories, 81 cube cells, round trip exact on all three, five held files listed.
 - `SHA256SUMS` — every file in this repository.
 - `OPEN.md` — what has not been run.
 
 ## How the evidence was made
 
-Each panel: the spec with its predictions was written and pushed before the program; the program was pushed before the run; the judgement lists every miss. Through V71 the seat's own predictions were met 144 times of 224.
+Each panel: the spec with its predictions was written and pushed before the program; the program was pushed before the run; the judgement lists every miss. Through V73 the seat's own predictions were met 155 times of 244 (144 of 224 through V71, 6 of 8 in V72, 5 of 12 in V73).
 
 ## What this is and its limits
 
