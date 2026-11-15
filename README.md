@@ -23,6 +23,12 @@ The name is his sentence from the Combined Book of Laws. This repository puts in
 
 Labels are the book's own: **MEASURED** (a number exists, produced by a named program), **NAMED** (stated by him, coherent, not yet run), **CONJECTURE** (stated, no experiment proposed yet).
 
+## The address and the finder
+
+[`ADDRESS-AND-FINDER.md`](ADDRESS-AND-FINDER.md) sets this repository beside the rest of the system: the one form found at every size (substrates, districts, sectors, office, laws), how the finder grew ([Hilbra](https://github.com/JesseBrown1980/Hilbra), recall, [HEB-C and HTTP-0](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash)), how the address grew (PID as a number, as a room and a prime, as a colour, as a gradient, as a position on a rime sphere), where to read each, and five ideas that are named and not yet run. His words for the address are in `laws/PASSAGES-3-THE-ADDRESS.md`.
+
+Links it uses: [the colour engine `omni_hotel.py`](https://github.com/JesseBrown1980/ASOLARIA-UNIVERSE-SIMULATOR-with-gravity-light-time-space-color-rime-winding-drills/blob/3f9f42dab6/engines/omni_hotel.py) · [the rime players and tools](https://github.com/JesseBrown1980/ASOLARIA-UNIVERSE-SIMULATOR-with-gravity-light-time-space-color-rime-winding-drills/tree/3f9f42dab6) · [the Rust recall engine's home](https://github.com/JesseBrown1980/asolaria-federation-1024) · [The light hub](https://jessebrown1980.github.io/the-light-hub-http-0/) · [the star panels and the crown run](https://github.com/JesseBrown1980/STEER-QNN-and-NN) · [the matrix-law tricks](https://github.com/JesseBrown1980/The-matrix-law-essentials) · [streaming GitRAM](https://github.com/JesseBrown1980/GitRAM) · [the quant atlas and crown codec](https://github.com/JesseBrown1980/Quant-anything-0-loss)
+
 ## Where each law sits
 
 `laws/INDEX-OF-THE-BOOKS.md` lists every heading of the Combined Book with its line, every law number with its line, and the 26 other markdown files of the laws repository's `canon` folder (the books, the single laws, the witness files, the three files at its root) with size, line count and sha256. It was made by script after the seat read the Combined Book (6,248 lines) and the other books line by line on 2026-11-14.
@@ -31,7 +37,7 @@ Labels are the book's own: **MEASURED** (a number exists, produced by a named pr
 
 ## Folders
 
-- `laws/` — his statement of 2026-11-14, the second-witness note, `INDEX-OF-THE-BOOKS.md`, `PASSAGES-2-THE-NEXT-RUNS.md`, and `PASSAGES.md`: passages of the Combined Book extracted by script with their line numbers and the book's sha256. The book itself stays in the laws repository, [qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash), `canon/books/COMBINED-BOOK-OF-LAWS.md`.
+- `laws/` — his statement of 2026-11-14, the second-witness note, `INDEX-OF-THE-BOOKS.md`, `PASSAGES-2-THE-NEXT-RUNS.md`, `PASSAGES-3-THE-ADDRESS.md`, and `PASSAGES.md`: passages of the Combined Book extracted by script with their line numbers and the book's sha256. The book itself stays in the laws repository, [qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash](https://github.com/JesseBrown1980/qoled-internet-HEB-C-revisted-HTTP---free-0-hbi-hbp-sha-sh-hash), `canon/books/COMBINED-BOOK-OF-LAWS.md`.
 - `instruments/` — the tools that already existed (`tools/`: rime, lighthouse, centre kernel, photon, shadow net; `players/`: the rime players) and their `RUNBOOK.md`, copied unchanged from the Asolaria Universe Simulator.
 - `evidence/steer/` — the star panels V65 to V73 from [STEER-QNN-and-NN](https://github.com/JesseBrown1980/STEER-QNN-and-NN): specs sealed before each run, results, judgements that list the misses, the programs, and the star bodies. `STEER-COMMIT.txt` names the commit they were copied from.
 - `view/` — the three repositories (the laws at `06bcd69`, this one at `23a41d8`, STEER at `6ac64b0`) read through the ternary 3D viewer kernel (Rust 1.81, integers, K=27, P=1,000,081): `GITHUB-3D-VIEW.hbi`, `GITHUB-3D-VIEW.hbp` and their sha256 files, in the order HBI, HBP, SHA, SH, HASH. Three repositories, 81 cube cells, round trip exact on all three, five held files listed.

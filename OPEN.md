@@ -10,6 +10,9 @@ Status of each item on 2026-11-14, evening. The first version of this file is in
 | V73: the Steer blast into a start box of 3^16 = 43,046,721 letters A, cooling shells, matter and dust, the shared hash made as HBI, HBP, SHA, SH, HASH | RUN as sealed and judged: `evidence/steer/results/JUDGE-BIGBANG-V73.hbp` (operator 2 of 5, seat 5 of 12) |
 | The Combined Book of Laws and the other books | READ line by line by the seat (6,248 lines, then the 21 other files of `canon/books` and the two witness files; the three files at the root of `canon` are listed in the index and were not read); the finder is `laws/INDEX-OF-THE-BOOKS.md` |
 | The three repositories through the 3D viewer kernel | RUN: `view/` |
+| The view sealed in the office | DONE: cube `b8983c0702030b72`, chained from `a254f182f9efccac` |
+| V62 (the trained mixer held fixed) | RUN and judged in STEER: averaged weights beat the hard switch by 1.6 to 2.2 per cent; seat 5 of 6 |
+| Recall on the operator's machine | Rows for the books, this repository, the star panels, Hilbra and the colour engine appended on 2026-11-14 |
 
 ## Open
 
@@ -24,6 +27,8 @@ Status of each item on 2026-11-14, evening. The first version of this file is in
 | The tail of the drill (the translucent tail that draws everything back through the conduit) | OPEN in the Combined Book itself | 252, 669, 5409 |
 | Whether the cats are instant (the shadow rime toruses) | NAMED; no experiment proposed yet | statement of 2026-11-14 |
 | The law number of the statement of 2026-11-14 | his to assign | - |
+| V74: the crown codec (vc65) at full size on the benchmark enwik9, two cells on streaming GitRAM, and a second witness in a cloud container | RUNNING when this file was written; spec, addendum and program in STEER (`specs/SPEC-CROWN-FULLSIZE-V74.hbp`, `crown/`) | Book IV (lines 510-536); Book VI line 624 |
+| The five ideas of `ADDRESS-AND-FINDER.md` (recall by colour, a plate of the books, the index as rime positions, districts as a finder test, the three-armed form) | NAMED; none run | - |
 | A colour plate of these three repositories (the colour tool of the viewer is set to one repository) | NOT RUN | - |
 
 ## A correction to the seat's own text
